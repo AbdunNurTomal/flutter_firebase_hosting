@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: title,
         theme: ThemeData(
-          primaryColor: Color(0xFFed2229),
+          primaryColor: Colors.orange,
         ),
         home: NewsletterPage(),
       );
